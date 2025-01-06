@@ -29,7 +29,9 @@
 }
 
 .App-body{
-  margin:20px;
+  margin:auto;
+  padding:20px;
+  max-width:1200px;
 }
 .App-body-text{
   margin:auto;

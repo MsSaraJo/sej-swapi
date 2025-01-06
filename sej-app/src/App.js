@@ -88,6 +88,9 @@ export default function App() {
             <h2>Loading Graph Data!</h2>
             <img src="/ShipGIF.gif" alt="Flying ship loading gif" />
           </header>
+          <div className="App-footer">
+            <footer>© Copyright 2025 Sara Johnston</footer>
+          </div>
         </div>
       )
     }

@@ -90,6 +90,7 @@ export default function App() {
           </header>
           <div className="App-footer">
             <footer>© Copyright 2025 Sara Johnston</footer>
+            <p><small>MAY THE FORCE BE WITH YOU</small></p>
           </div>
         </div>
       )
